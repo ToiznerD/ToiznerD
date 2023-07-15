@@ -23,17 +23,15 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>  
- <a href="https://www.mongodb.com/" target="_blank">    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width=50px height="50px" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://mui.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" width=40px height="40px"/> <a> 
-    <a style="margin=70px" href="https://redux.js.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width=40px height="40px"/> <a>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase"/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs"/>
     <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <a> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
      <a href="https://git-scm.com/" target="_blank"> 
@@ -43,7 +41,7 @@
  
 ## Connect with me:
 <p align="left">
-<a href = "http://linkedin.com/in/yuval-avitan-057381246"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/dor-toizner-86518722a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## :fire: My Stats :
