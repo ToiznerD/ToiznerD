@@ -11,7 +11,7 @@
            
 ## 🙋‍♂️ About Me
  
-- 🎓 Software Developer, looking for Full Stack Developer position.
+- 🎓 Software Developer, looking for Software Engineer position.
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
@@ -24,6 +24,8 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/c.png"/> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
