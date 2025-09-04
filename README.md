@@ -11,7 +11,7 @@
            
 ## 🙋‍♂️ About Me
  
-- 🎓 Software Developer, looking for Software Engineer position.
+- 🎓 Full Stack Engineer
  
 - 💪 Ambitious, self-motivated, hardworking person and a great team player.
  
